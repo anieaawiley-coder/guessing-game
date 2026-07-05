@@ -1,0 +1,2 @@
+I spent a whole week learning python basices and now I'm making my first project in python.
+What it does: Tthe guessing game is a game where the comptuer picks a random number from 0-20 and the player(you) guess a number wth in that range. If the number you guessed is close the computer will say "you're getting wamer" if its close to that number. And if its farway it will say, "You've go cold". This will contiune until the plaer guesses the right number.
